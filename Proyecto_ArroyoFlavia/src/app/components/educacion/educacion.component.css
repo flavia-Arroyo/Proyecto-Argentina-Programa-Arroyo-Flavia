@@ -1,0 +1,22 @@
+.row{
+    padding:.7rem;
+    
+}
+
+div{
+    background-color: rgb(245, 245, 188); 
+
+}
+#logo{
+    border-radius: 20%;
+    padding:1rem;
+}
+
+
+ h1, h3{
+    display: inline;
+}
+p{
+    font-size: 1.5em;
+    padding:2rem;
+}

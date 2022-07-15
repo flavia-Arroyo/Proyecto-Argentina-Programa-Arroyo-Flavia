@@ -1,0 +1,19 @@
+.row{
+    padding:.7rem;
+    
+}
+
+div{
+    background-color: rgb(245, 245, 188); 
+
+}
+#logo{
+    border-radius: 20%;
+    padding:1rem;
+    width: 100vw;
+}
+
+
+ h1, h3{
+    display: inline;
+}
