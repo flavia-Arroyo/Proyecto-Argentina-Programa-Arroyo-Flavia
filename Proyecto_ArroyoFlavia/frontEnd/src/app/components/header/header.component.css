@@ -1,6 +1,7 @@
-div{
+.row{
     background-color: rgb(149, 149, 62); 
-    width: 100vw;
+    width: 100%;
+    
 }
 app-social{
     float: right;
